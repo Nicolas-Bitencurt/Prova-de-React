@@ -1,0 +1,12 @@
+.detalhes {
+    background-color: #f1f5f9;
+    padding: 24px;
+    border-left: 6px solid #000000;
+    border-radius: 8px;
+  }
+  
+  .detalhes p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
